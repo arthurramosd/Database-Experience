@@ -7,7 +7,7 @@ Se trata de um desafio de projeto do Bootcamp Database Experience oferecido pela
 
 **Atividades**  
 
-**Cliente PF e PJ** - Uma conta pode ser Pessoa Física e Jurídica, mas não pod ter as duas informações.  
+**Cliente PF e PJ** - Uma conta pode ser Pessoa Física e Jurídica, mas não pode  ter as duas informações.    
 **Resposta:** Crei um atributo ENUM na tabela de cliente com as opções de PF e PJ, dessa forma, não foi necessário criar nenhuma outra tabela para armazenar essas informações.   
   
 
